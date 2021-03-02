@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../webservices-lab2/authors-service/authors-service.iml" filepath="$PROJECT_DIR$/../webservices-lab2/authors-service/authors-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/books-service/books-service.iml" filepath="$PROJECT_DIR$/books-service/books-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../config-server/config-server.iml" filepath="$PROJECT_DIR$/../config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gateway-webservices-lab2/gateway-webservices-lab2.iml" filepath="$PROJECT_DIR$/../gateway-webservices-lab2/gateway-webservices-lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-finder-lab2/service-finder-lab2.iml" filepath="$PROJECT_DIR$/../service-finder-lab2/service-finder-lab2.iml" />
+    </modules>
+  </component>
+</project>
